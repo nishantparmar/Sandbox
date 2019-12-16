@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jdt.ls-java-project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/com/nishant/executor/Main.java</name>
+			<type>1</type>
+			<location>//home/runner/com/executor/Main.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
